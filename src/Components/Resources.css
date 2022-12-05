@@ -1,0 +1,102 @@
+.resBody1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: initial;
+    justify-content: start;
+    padding-top: 160px;
+    padding-bottom: 40px;
+    background-color: rgba(214, 223, 231, 0.171);
+}
+.res1{
+    padding-left: 160px;
+}
+.res2{
+    padding-left: 80px;
+}
+.jumpContent{
+    display: block;
+    justify-content: center;
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.jumpButtons{
+    display: flex;
+    justify-content: initial;
+    margin-left: 11%;
+    column-gap: 20px;
+}
+.jumpButtons>button{
+    border: none;
+    border-radius: 5px;
+    height: 44px;
+    background: none;
+}
+.jumpButtons>button:hover{
+    background-color: rgb(58, 136, 252);
+    color: white;
+    font-weight: bold;
+}
+.ebookGuides{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.ebookCards{
+    display: inline-flex;
+    justify-content: flex-start;
+}
+.webinars{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.webCards{
+    display: inline-flex;
+    justify-content: flex-start;
+}
+.stories{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.storyCards{
+    display: inline-flex;
+    justify-content: flex-start;
+}
+.Blog{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.blogCards{
+    display: inline-flex;
+    justify-content: flex-start;
+}
+.VideoTutorials{
+    display: inline-flex;
+    justify-content: center;
+    column-gap: 160px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.tutorial{
+    width: 40%;
+    text-align: initial;
+    margin-right: 30px;
+    padding-top: 60px;
+}
+.tutorialVideo{
+    width: 40%;
+}
+.ResHelp{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(212, 223, 243, 0.151);
+}
+.resTestimonials{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: rgb(10, 10, 48);
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.testimonialCard{
+    padding-top: 20px;
+}

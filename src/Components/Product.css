@@ -1,0 +1,174 @@
+.f1{
+    width:470px;
+    text-align: initial;
+}
+.f1>h6 {
+    margin-top: 60px;
+    color: rgb(89, 156, 231);
+}
+.f1>h1{
+    width: 400px;
+    margin-top: 20px;
+    font-size: 64px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.f1>h5 {
+    max-width: 400px;
+    color: rgba(26, 26, 61, 0.664);
+    font-size: 15x;
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.f2>img {
+    margin-top: 40px;
+}
+
+.logosloop {
+    margin-top: 40px;
+}
+.productBody3 {
+    background-color: rgba(194, 194, 245, 0.103);
+}
+.f3 {
+    margin-top: 60px;
+    width: 400px;
+    padding-Right: 120px;
+}
+.f4 {
+    padding-top: 20px;
+    padding-left: 150px;
+}
+.footNav {
+    margin-top: 60px;
+    display: inline-flex;
+    list-style: none;
+}
+.footNav>li {
+    margin-right: 15px;
+}
+.footNav>li>a {
+     text-decoration: none;
+     color: rgba(11, 53, 88, 0.664);
+     font-weight: bold;
+}
+.footNav>li>a:hover {
+    color: rgb(89, 156, 231);
+    text-decoration: underline;
+}
+.f5 {
+    margin-top: 60px;
+    text-align: initial;
+    padding-right: 100px;
+}
+.f5>h6 {
+  padding-bottom: 10px;
+  color: rgba(11, 53, 88, 0.664);
+}
+.footerbody5 {
+    display: block;
+    padding-bottom: 30px;
+    background-color: rgba(156, 168, 238, 0.075);
+}
+.f78{
+    display: grid;
+    grid-template-columns: 55% 45% ;
+    justify-content: left;
+    padding-top: 80px;
+    margin-right: 100px;
+}
+.para {
+    margin-right: 35px;
+    width: 620px;
+    padding-top: 70px;
+    text-align: initial;
+    padding-left: 150px;
+    list-style: none;
+}
+.f8ab {
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    justify-content: left;
+    
+}
+.f8a:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.f8b:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.f8c:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.f8d:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.f910 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.f10 {
+    height: 60vh;
+    overflow:auto;
+    box-sizing: border-box;
+    float:inherit;
+    position: relative;
+    margin-left: -5px;
+    margin-top:40px;
+}
+.footerBody8 {
+    display: grid;
+    grid-template-columns: 45% 55%;
+    background-color: rgba(170, 199, 219, 0.158);
+}
+
+
+
+.insidenav>li>a {
+    text-decoration: none;
+    color:rgb(11, 53, 88) ;
+}
+.insidenav>li>a:hover {
+    text-decoration: underline;
+    color: rgb(89, 156, 231);
+}
+
+
+
+.footLast {
+    display: block;
+    justify-content: center;
+    height: 400px;
+    padding-top: 20px;
+    background-image: url(../Images/footbglast.png);
+}
+.f13 {
+    padding-left: 200px;
+}
+.collapsible1 {
+    background-color: #eee;
+    border: none;
+    cursor: pointer;
+    padding: 18px;
+    width: 600px;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .collapsible1>h4:hover {
+    color:rgb(89, 156, 231);
+    font-weight: bold;
+  }
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+  

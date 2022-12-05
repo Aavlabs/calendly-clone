@@ -1,0 +1,100 @@
+.teamsBody1 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.teams1 {
+    justify-content: left;
+    text-align: initial;
+    padding-left: 90px;
+}
+.teamsBody2 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.teams3 {
+    justify-content: left;
+    text-align: initial;
+    padding-left: 90px;
+}
+.teamsBody3 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.teams6 {
+    justify-content: left;
+    text-align: initial;
+    padding-left: 90px;
+}
+.teamsBody4 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.teams7 {
+    justify-content: left;
+    text-align: initial;
+    padding-left: 90px;
+}
+.teamsBody5 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.teamsNav>li>a {
+    text-decoration: none;
+    color:rgb(11, 53, 88) ;
+}
+.teamsNav>li>a:hover {
+    text-decoration: underline;
+    color:rgb(63, 117, 192);
+}
+.teamsNav {
+    margin-top: 20px;
+    color: rgb(63, 117, 192);
+    height: 30px;
+    margin-left: 90px;
+    
+    font-weight: bold;
+    display: inline-flex;
+    
+    justify-content:center;
+    list-style: none;
+    gap: 44px;
+}
+.teamsBody7 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-bottom: 80px;
+    padding-left: 80px;
+}
+.teamsBody8 {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding-bottom: 80px;
+    padding-left: 80px;
+}
+.teams15{
+    display: inline-flex;
+}
+.teamsBody9{
+    background-image: url("https://www.shutterstock.com/image-illustration/dark-blue-gradient-background-abstract-260nw-1938444742.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:290px;
+   
+}

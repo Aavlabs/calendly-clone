@@ -1,0 +1,141 @@
+.entBody1{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 120px;
+    padding-left: 150px;
+   padding-bottom: 20px;
+
+}
+.ent1{
+    padding-top: 40px;
+}
+.ent2{
+    padding-right: 80px;
+    justify-content: initial;
+    padding-top: 40px;
+    
+}
+.EntBody2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.EntBody3{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+.EntBody4{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 40px;
+    padding-left: 150px;
+    background-color:rgba(170, 199, 219, 0.158);
+    padding-bottom: 40px;
+}
+.EntBody5{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 40px;
+    padding-left: 150px;
+}
+.EntBody6{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: block;
+    justify-content: center;
+    height: 480px;
+    background-image: url("https://img.freepik.com/free-vector/white-gold-geometric-pattern-background-vector_53876-140726.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.EntBody7{
+    
+    margin-left: 100px;
+}
+.EntBody9{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-bottom: 40px;
+}
+.EntBody10{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-bottom: 40px;
+}
+.EntBody11{
+    display: block;
+    justify-content: center;
+}
+.EntBody12{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 40px;
+    padding-left:90px;
+}
+.insidenav>li>a {
+    text-decoration: none;
+    color:rgb(11, 53, 88) ;
+}
+.insidenav>li>a:hover {
+    text-decoration: underline;
+    color: rgb(89, 156, 231);
+}
+.temp1 {
+    width: 99%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    margin-top: 40px;
+    column-gap: 30px;
+}
+.para {
+    width: 700px;
+    padding-top: 40px;
+    text-align: initial;
+    padding-left: 150px;
+    list-style: none;
+}
+.insidenav {
+    margin-top: 50px;
+    color: rgb(0, 107, 255);
+    height: 30px;
+    
+    font-weight: bold;
+    display: inline-flex;
+    
+    justify-content:center;
+    list-style: none;
+    gap: 44px;
+}
+.EntBody13{
+    background-image: url("https://www.shutterstock.com/image-illustration/dark-blue-gradient-background-abstract-260nw-1938444742.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:290px;
+   
+}
+.ent14ab{
+    display: inline-grid;
+}
+.cards{
+    text-align: initial;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border: 2px ridge rgba(207, 202, 202, 0.616);
+    width: 300px;
+    height: 310px;
+    border-radius: 5px;
+}
+.cards:hover{
+    background-color: rgba(202, 206, 214, 0.37);
+    cursor: pointer;
+}

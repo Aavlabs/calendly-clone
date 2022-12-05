@@ -1,0 +1,108 @@
+
+.footerdiv {
+    display: grid;
+    grid-template-columns: 42% 58%;
+    padding-top: 120px;
+}
+
+.data1 {
+    display: grid;
+    text-align: left;
+    justify-content: initial;
+    padding-left:100px;
+}
+.socialaccount {
+    display: inline-flex;
+}
+
+.data2 {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: initial;
+    text-align: initial;
+    column-gap:3px;
+    list-style: none;
+}
+.footdiv1>li{
+    margin-bottom: 12px;
+}
+.footdiv2>li{
+    margin-bottom: 12px;
+}
+.footdiv3>li{
+    margin-bottom: 12px;
+}
+.footdiv4>li{
+    margin-bottom: 12px;
+}
+.footdiv5>li{
+    margin-bottom: 12px;
+}
+.footdiv6>li{
+    margin-bottom: 12px;
+}
+.footdiv1>li>a {
+    text-decoration: none;
+    padding-bottom: 15px;
+    color: rgba(0, 0, 0, 0.801);
+    font-size: 14px;
+}
+.footdiv1>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
+.footdiv2>li>a {
+    text-decoration: none;
+    padding-bottom: 12px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: left;
+    font-size: 14px;
+}
+.footdiv2>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
+.footdiv3>li>a {
+    text-decoration: none;
+    margin-bottom: 12px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: left;
+    font-size: 14px;
+}
+.footdiv3>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
+.footdiv4>li>a {
+    text-decoration: none;
+    padding-bottom: 12px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: left;
+    font-size: 14px;
+}
+.footdiv4>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
+.footdiv5>li>a {
+    text-decoration: none;
+    padding-bottom: 12px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: left;
+    font-size: 14px;
+}
+.footdiv5>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
+.footdiv6>li>a {
+    text-decoration: none;
+    padding-bottom: 12px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: initial;
+    font-size: 14px;
+}
+.footdiv6>li>a:hover{
+    color:rgb(89, 156, 231);
+    text-decoration: underline;
+} 
